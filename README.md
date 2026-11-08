@@ -35,5 +35,7 @@ Image not added yet
 | 1 | Rotary Dial (from Arduino kit) | N/A | $0.00 | $0.00 | $0.00 |
 | 15 | Kailh Choc Keyswitches | [Amazon](https://www.amazon.com/Choc-Profile-White-Switches-Pre-lubed/dp/B0D49HD77G) | $13.00 / 20 | $0.65 | $9.75 |
 | 1 | ESP32s 38-Pin Dev Board | [Amazon](https://www.amazon.com/hiBCTR-Development-Learning-Microcontroller-Programming/dp/B0DSZBH9N9) | $30.00 / 6 | $5.00 | $5.00 |
-| - | 3D Filament (Matte Black) | N/A | N/A | N/A | N/A |
+| - | 3D Filament (Matte Black) | N/A | N/A | N/A | $10.00 |
 | | | | | **Total** | **$30.32** |
+
+**This is not counting the assortment of resistors, diodes, and battery which can be purchased for a negligible price**
