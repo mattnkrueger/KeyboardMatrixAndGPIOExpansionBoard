@@ -23,7 +23,9 @@ The intention for this was to create a starting point for controlling future pro
 With the expansion unit, you are able to gain access to all remaining pins on the ESP32 without opening up the keyboard container. Pins were separated into categories of functionality.
 
 # PCB (in progress)
-Image not added yet
+![PCB Progress](img/pcb-progress.png)
+
+The PCB is currently under development I plan to have the traces done and the boards ordered by Friday this week (11/9/2026). This will be a 2-layer design to keep the footprint small. The USB-C port will be exposed on the very top left and the expansion pins on the middle right. To pack components into a small space, I will place the ESP32s and expansion pinous underneath the device with their backsides up. The OLED, keyswitches, and rotary will all be rightside up.  
 
 # CAD Design (in progress)
 Image not added yet
