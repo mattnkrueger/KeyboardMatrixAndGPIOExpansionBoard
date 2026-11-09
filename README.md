@@ -19,6 +19,7 @@ The intention for this was to create a starting point for controlling future pro
 
 # Expansion Pinout
 ![Expansion Pinout](img/ExpansionPinout.png)
+
 With the expansion unit, you are able to gain access to all remaining pins on the ESP32 without opening up the keyboard container. Pins were separated into categories of functionality.
 
 # PCB (in progress)
