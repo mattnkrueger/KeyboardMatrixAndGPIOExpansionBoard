@@ -12,6 +12,7 @@ The intention for this was to create a starting point for controlling future pro
 - 15 Keys
 - 1 Rotary Dial
 - 20 port GPIO and power expansion 
+- USB-C Power
 
 # Schematic 
 ![KiCad Schematic](img/KiCad_MatrixKeyboard.png)
@@ -30,12 +31,11 @@ Image not added yet
 | Qty Used | Part | Link | Pack Price | Unit Cost | Cost Used |
 |----------|------|------|-----------|-----------|-----------|
 | 1 | 2.42" 128x64 OLED LCD Display (SSD1309) | [Amazon](https://www.amazon.com/Teyleten-Robot-Display-SSD1309-Interface/dp/B09LND6QJ1) | $13.00 / 1 | $13.00 | $13.00 |
-| 1 | DROK Buck Converter | [Amazon](https://www.amazon.com/Converter-DROK-Adjustable-Transformer-Stabilizer/dp/B08Q3PMJTT) | $9.00 / 6 | $1.50 | $1.50 |
-| 1 | Power Switch (KCD1) | [Amazon](https://www.amazon.com/DaierTek-Listed-Switches-Automotive-KCD1-5Pack/dp/B07S1MV462) | $6.40 / 6 | $1.07 | $1.07 |
 | 1 | Rotary Dial (from Arduino kit) | N/A | $0.00 | $0.00 | $0.00 |
 | 15 | Kailh Choc Keyswitches | [Amazon](https://www.amazon.com/Choc-Profile-White-Switches-Pre-lubed/dp/B0D49HD77G) | $13.00 / 20 | $0.65 | $9.75 |
 | 1 | ESP32s 38-Pin Dev Board | [Amazon](https://www.amazon.com/hiBCTR-Development-Learning-Microcontroller-Programming/dp/B0DSZBH9N9) | $30.00 / 6 | $5.00 | $5.00 |
 | - | 3D Filament (Matte Black) | N/A | N/A | N/A | $10.00 |
-| | | | | **Total** | **$30.32** |
 
-**This is not counting the assortment of resistors, diodes, and battery which can be purchased for a negligible price**
+**Total:** $37.75
+
+**This is not counting the assortment of resistors (10k), capacitors (0.1uf), diodes (1N4148), and which can be purchased in bulk for a negligible price**
