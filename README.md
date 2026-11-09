@@ -43,4 +43,4 @@ Image not added yet
 
 **Total:** $37.75
 
-**This is not counting the assortment of resistors (10k), capacitors (0.1uf), diodes (1N4148), and which can be purchased in bulk for a negligible price**
+**This is not counting the assortment of resistors (10k), capacitors (0.1uf), and diodes (1N4148) which can be purchased in bulk for a negligible price**
